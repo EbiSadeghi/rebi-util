@@ -1,0 +1,7 @@
+[database]
+username        = "Ebi"
+password        = "pleasechangethedefaultpassword!"
+
+[Other]
+api_key		= "api_key"
+secret_token	= "secret"
